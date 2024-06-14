@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Habib ulla
+# Hi there 👋, my name is Habib ulla :
 #### I am  a front end web developer
 
 Hello, I'm Habib Ulla, a passionate frontend web developer skilled in JavaScript, React, and Tailwind CSS. I specialize in creating visually appealing and user-friendly websites by translating design concepts into functional and interactive web applications. 
