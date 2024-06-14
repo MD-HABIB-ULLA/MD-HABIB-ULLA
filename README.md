@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Habib ulla
 #### I am  a front end web developer
-![I am  a front end web developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 Hello, I'm Habib Ulla, a passionate frontend web developer skilled in JavaScript, React, and Tailwind CSS. I specialize in creating visually appealing and user-friendly websites by translating design concepts into functional and interactive web applications. 
 
