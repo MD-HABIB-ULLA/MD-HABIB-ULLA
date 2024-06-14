@@ -1,6 +1,14 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+### Hi there 👋, my name is Habib ulla
+#### I am  a front end web developer
+![I am  a front end web developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
+Hello, I'm Habib Ulla, a passionate frontend web developer skilled in JavaScript, React, and Tailwind CSS. I specialize in creating visually appealing and user-friendly websites by translating design concepts into functional and interactive web applications. 
+
+With a keen eye for detail and a commitment to staying updated with the latest trends, I deliver high-quality websites that exceed client expectations and drive business growth. My approach is marked by effective communication, collaboration, and a passion for innovation.
+
+
+Email: habibulla1278@gmail.com 
+Phone no. : +8801310704365
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/habib.ulla.1278/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/habib_ualla_1278/?hl=en) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/habib-ulla/) 
