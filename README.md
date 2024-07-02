@@ -54,9 +54,13 @@ Phone: +8801310704365
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MD-HABIB-ULLA&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=MD-HABIB-ULLA&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MD-HABIB-ULLA&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center" style="background: linear-gradient(to right, #1BDAFF, #8C52FF); padding: 20px; border-radius: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=MD-HABIB-ULLA&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MD-HABIB-ULLA&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MD-HABIB-ULLA&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MD-HABIB-ULLA&theme=radical&no-frame=false&no-bg=true&margin-w=4)
