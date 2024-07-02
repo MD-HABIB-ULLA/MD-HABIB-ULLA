@@ -54,13 +54,55 @@ Phone: +8801310704365
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ## 📊 GitHub Stats:
+## Project Name (Replace with your project name)
+
+**Description:**  (Write a brief description of your project)
+
+**Table of Contents**
+
+* [Introduction](#introduction)  (Optional, if needed)
+* [Installation](#installation)  (Optional, if applicable)
+* [Usage](#usage)  (Optional, if applicable)
+* [Contributing](#contributing)  (Optional, if open to contributions)
+* [License](#license)
+* [GitHub Stats](#github-stats)
+
+## Introduction  (Optional)
+
+(Provide an overview of your project here)
+
+## Installation  (Optional)
+
+(Explain how to install your project, if needed)
+
+## Usage  (Optional)
+
+(Guide users on how to use your project)
+
+## Contributing  (Optional)
+
+(If you welcome contributions, outline the process)
+
+## License
+
+(Specify the license under which your project is distributed)
+
+## GitHub Stats
+
 <div align="center" style="background: linear-gradient(to right, #1BDAFF, #8C52FF); padding: 20px; border-radius: 10px;">
+  **Overall Stats**  (Consider a more descriptive title)
+  <br />
   <img src="https://github-readme-stats.vercel.app/api?username=MD-HABIB-ULLA&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <br />
+  **Contribution Streak**  (Consider a more descriptive title)
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MD-HABIB-ULLA&theme=dark&hide_border=false" alt="GitHub Streak" />
   <br />
+  **Top Languages**
+  <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MD-HABIB-ULLA&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MD-HABIB-ULLA&theme=radical&no-frame=false&no-bg=true&margin-w=4)
