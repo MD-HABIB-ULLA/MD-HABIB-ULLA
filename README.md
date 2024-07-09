@@ -51,7 +51,7 @@ Phone: +8801310704365
 <div align="center" style="background: linear-gradient(to right, #1BDAFF, #8C52FF); padding: 20px; border-radius: 10px;">
   **Overall Stats**  (Consider a more descriptive title)
   <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=MD-HABIB-ULLA&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
   <br />
   **Contribution Streak**  (Consider a more descriptive title)
   <br />
