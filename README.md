@@ -51,13 +51,7 @@ Phone: +8801310704365
 <div align="center" style="background: linear-gradient(to right, #1BDAFF, #8C52FF); padding: 20px; border-radius: 10px;">
   **Overall Stats**  (Consider a more descriptive title)
   <br />
-<p>
-    <a>
-      <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MD-HABIB-ULLA&theme=monokai-metallian&hide_border=true"/>
-    </a>
-    
-  </p>
+
 
   <br />
   **Contribution Streak**  (Consider a more descriptive title)
