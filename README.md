@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/KxvQ0V8/Dark-Neon-Simple-Futuristic-UIUX-Designer-Linked-In-Banner.jpg" alt="docsify" class="d-block width-full">
+<img src="https://i.ibb.co/KxvQ0V8/Dark-Neon-Simple-Futuristic-UIUX-Designer-Linked-In-Banner.jpg" alt="docsify" class=" width-full">
 
 # Hi there 👋, I'm Habib Ulla, a Frontend Web Developer
 Hello, I'm Habib Ulla, a passionate frontend web developer skilled in JavaScript, React, and Tailwind CSS. I specialize in creating visually appealing and user-friendly websites by translating design concepts into functional and interactive web applications.
