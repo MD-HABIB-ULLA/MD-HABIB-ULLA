@@ -5,7 +5,7 @@ Hello, I'm Habib Ulla, a passionate frontend web developer skilled in JavaScript
 
 With a keen eye for detail and a commitment to staying updated with the latest trends, I deliver high-quality websites that exceed client expectations and drive business growth. My approach is marked by effective communication, collaboration, and a passion for innovation.
 
-Feel free to reach out to me:
+Feel free to reach out to me :-
 
 Email: habibulla1278@gmail.com  
 Phone: +8801310704365
