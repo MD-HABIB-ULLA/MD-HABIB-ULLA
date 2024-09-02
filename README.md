@@ -10,7 +10,7 @@ Feel free to reach out to me :
 Email: habibulla1278@gmail.com  
 Phone: +8801310704365
 
-## 🌐 Socials:
+## 🌐 Socials:-
 <p align="center">
   <a href="https://facebook.com/habib.ulla.1278/">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" style="height: 40px;"/>
