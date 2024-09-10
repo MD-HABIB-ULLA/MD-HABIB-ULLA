@@ -1,7 +1,7 @@
 <img src="https://i.ibb.co/MPmpdB7/banner.jpg" alt="docsify" class="d-block width-full">
 
 # Hi there 👋, I'm Habib Ulla, a Frontend Web Developer
-Hello, I'm Habib Ulla, a passionate frontend web developer skilled in JavaScript, React, and Tailwind CSS. I specialize in creating visually appealing and user-friendly websites by translating design concepts into functional and interactive web applications.
+Hello, I'm Habib Ulla, a passionate frontend web developer skilled in JavaScript, React, and Tailwind CSS. I specialize in creating visually appealing and user-friendly websites by translating design concepts into functional and interactive web applications .
 
 With a keen eye for detail and a commitment to staying updated with the latest trends, I deliver high-quality websites that exceed client expectations and drive business growth. My approach is marked by effective communication, collaboration, and a passion for innovation.
 
