@@ -36,7 +36,7 @@ Welcome to my GitHub profile! I'm passionate about creating visually appealing a
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MD-HABIB-ULLA&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MD-HABIB-ULLA&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
 ## 🏆 GitHub Trophies
@@ -48,7 +48,7 @@ Welcome to my GitHub profile! I'm passionate about creating visually appealing a
 ## 🔝 Top Contributed Repo
 
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=MD-HABIB-ULLA&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=MD-HABIB-ULLA&limit=5&theme=gotham&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
 </div>
 
 ## 📫 Let's Connect
