@@ -32,23 +32,23 @@ Welcome to my GitHub profile! I'm passionate about creating visually appealing a
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MD-HABIB-ULLA&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MD-HABIB-ULLA&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MD-HABIB-ULLA&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MD-HABIB-ULLA&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MD-HABIB-ULLA&theme=radical&no-frame=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MD-HABIB-ULLA&theme=dark&no-frame=true&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ## 🔝 Top Contributed Repo
 
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=MD-HABIB-ULLA&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=MD-HABIB-ULLA&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
 </div>
 
 ## 📫 Let's Connect
