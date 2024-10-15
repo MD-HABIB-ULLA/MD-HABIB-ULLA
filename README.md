@@ -32,7 +32,7 @@ Welcome to my GitHub profile! I'm passionate about creating visually appealing a
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MD-HABIB-ULLA&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MD-HABIB-ULLA&theme=gotham&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
@@ -42,7 +42,7 @@ Welcome to my GitHub profile! I'm passionate about creating visually appealing a
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MD-HABIB-ULLA&theme=dark&no-frame=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MD-HABIB-ULLA&theme=gotham&no-frame=true&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ## 🔝 Top Contributed Repo
