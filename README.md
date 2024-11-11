@@ -1,6 +1,6 @@
 <img src="https://i.ibb.co/MPmpdB7/banner.jpg" alt="Habib Ulla Banner" width="100%">
 
-# Habib Ulla | Frontend Web Developer 👨‍💻
+# Habib Ulla | Frontend Web Developer 👨‍💻 
 
 Welcome to my GitHub profile! I'm passionate about creating visually appealing and user-friendly websites using cutting-edge technologies .
  
