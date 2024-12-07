@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/MPmpdB7/banner.jpg" alt="Habib Ulla Banner" width="100%">
+<img src="https://i.ibb.co/MPmpdB7/banner.jpg" alt="Habib Ulla Banner" width="100%"> 
 
 # Habib Ulla | Frontend Web Developer 👨‍💻 
 
